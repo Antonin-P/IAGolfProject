@@ -1,0 +1,25 @@
+name: ts-forecasting
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.7
+  - pip
+  - setuptools
+  - wheel
+  - tqdm
+  - twine
+  - autopep8
+  - retrying
+  - requests
+  - pandas==0.25
+  - numpy
+  - python-dateutil
+  - scikit-learn
+  - statsmodels
+  - keras
+  - tensorflow
+  - pandas-profiling
+  - jupyter
+  - seaborn
