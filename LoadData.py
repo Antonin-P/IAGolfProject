@@ -50,6 +50,3 @@ plotUtils.plot_correlation_heatmap(df[target_col+numerical_feature_cols])
 """sns.pairplot(df[numerical_feature_cols+target_col])"""
 
 
-
-
-
